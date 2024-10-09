@@ -1,4 +1,4 @@
-# Membuat Quiz Array
+# Quiz Array
 
 ### Deskripsi
 Proyek ini adalah kuis sederhana yang dibuat dengan PHP, menggunakan array untuk menyimpan pertanyaan dan jawaban. Aplikasi ini memungkinkan pengguna untuk menguji pengetahuan mereka dengan menjawab serangkaian pertanyaan yang disajikan secara acak.
